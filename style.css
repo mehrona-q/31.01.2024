@@ -1,0 +1,24 @@
+#email {
+  color: rgb(121, 115, 115);
+}
+#telegram {
+  color: #6d5c5c;
+}
+#tema {
+  color: #827c7c;
+}
+#comment {
+  color: #696161;
+}
+h1,
+label {
+  color: #960d0d;
+  font-size: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: oblique;
+}
+button {
+  color: yellowgreen;
+  background-color: black;
+}
